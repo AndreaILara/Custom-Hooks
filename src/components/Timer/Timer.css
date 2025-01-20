@@ -1,0 +1,20 @@
+.timer {
+  background-color: #e3f2fd;
+  border: 1px solid #bbdefb;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.timer h2 {
+  color: #1976d2;
+}
+
+.timer p {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #0d47a1;
+}
